@@ -1,0 +1,11 @@
+git init --bare <directory\{folderName.Git}>
+git add .
+git commit
+git push
+
+Path
+\\PLB081X\SourceApp		--> Source App
+\\pbp165.bp.minebea.local\RPA	--> UiPath
+
+ProxyConfig(LPB)
+git config --global http.proxy http://Username:Password@10.121.1.77:8080
